@@ -1,0 +1,9 @@
+{
+    "path" : "~/Documents/Tidy Tuesday/Ramen Ratings",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

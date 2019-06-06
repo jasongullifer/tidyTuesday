@@ -1,0 +1,6 @@
+"0","knitr::opts_chunk$set(echo = TRUE)"
+"0","library(tidyverse)"
+"0","library(tidytext)"
+"0","library(glmnet)"
+"0","library(Matrix)"
+"0","theme_set(theme_minimal(base_size = 12))"
