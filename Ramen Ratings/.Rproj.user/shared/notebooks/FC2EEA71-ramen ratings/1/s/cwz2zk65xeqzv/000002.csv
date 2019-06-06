@@ -1,6 +1,0 @@
-"0","ramen_ratings <- ramen_ratings %>% "
-"0","  mutate(brand = fct_lump(brand, n=10),"
-"0","         style = fct_lump(style, n=3),"
-"0","         country = fct_lump(country, 10),"
-"0","         style = replace_na(style, ""Other"")) %>%"
-"0","  filter(!is.na(review_number))"
