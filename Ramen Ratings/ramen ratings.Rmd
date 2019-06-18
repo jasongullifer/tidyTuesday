@@ -1,5 +1,5 @@
 ---
-title: "Ramen ratings"
+title: "Tidy Tuesday: Ramen ratings"
 author: "Jason Gullifer"
 date: "June 4, 2019"
 output: html_document
